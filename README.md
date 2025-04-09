@@ -18,4 +18,4 @@ Website institucional responsivo para a Borges Distribuidora, desenvolvido para 
 | HTML5 | Estrutura do conteúdo |
 | CSS3 | Estilização e layout |
 | JavaScript | Interatividade |
-| | Hospedagem gratuita |
+| Netlify | Hospedagem gratuita |
