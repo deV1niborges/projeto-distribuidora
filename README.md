@@ -1,6 +1,6 @@
 # 🏭 Website Institucional - Borges Distribuidora
 
-![Banner do Projeto](src/assets/img/adventure-cat.png)
+![Banner do Projeto]()
 
 ## 📌 Visão Geral
 Website institucional responsivo para a Borges Distribuidora, desenvolvido para fortalecer sua presença digital e melhorar o relacionamento com clientes.
