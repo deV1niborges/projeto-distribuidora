@@ -1,9 +1,9 @@
-# 🏭 Website Institucional - Borges Distribuidora
+# 🏭 Website Institucional - Distribuidora EAB
 
 ![Banner do Projeto]()
 
 ## 📌 Visão Geral
-Website institucional responsivo para a Borges Distribuidora, desenvolvido para fortalecer sua presença digital e melhorar o relacionamento com clientes.
+Website institucional responsivo para a Distribuidora EAB, desenvolvido para fortalecer sua presença digital e melhorar o relacionamento com clientes.
 
 ## ✨ Principais Recursos
 - ✅ Página inicial impactante
