@@ -12,10 +12,23 @@ body {
 }
 
 main {
-  background-color: #21349259;
+  background-color: #02284dc9;
   height: 100vh;
 }
 
+section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 100px;
+}
+
+figure > img {
+  height: 100px;
+}
+
 h1 {
-  color: white;
+  font-size: 32px;
+  padding: 0px 0px 0px 10px;
+  color: #f6881a;
 }

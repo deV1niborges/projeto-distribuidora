@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 768px) {
+  section {
+    display: flex;
+    height: 100px;
+    padding: 0px;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  figure > img {
+    height: 50px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 100px;
+  }
+
+  figure > img {
+    height: 90px;
+  }
+
+  h1 {
+    font-size: 25px;
+    padding: 0px 0px 0px 10px;
+    color: #f6881a;
+  }
+}
