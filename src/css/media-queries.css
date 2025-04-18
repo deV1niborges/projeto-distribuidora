@@ -9,13 +9,20 @@
     align-items: center;
   }
 
+  figure {
+    padding: 20px 0px 20px 20px;
+  }
+
   figure > img {
-    height: 50px;
+    border-radius: 10px;
+    background-color: white;
+    height: 40px;
   }
 
   h1 {
+    padding: 0px 100px 0px 10px;
     color: #f6881a;
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -27,13 +34,17 @@
     padding: 100px;
   }
 
+  figure {
+    padding: 20px 0px 20px 20px;
+  }
+
   figure > img {
     height: 90px;
   }
 
   h1 {
     font-size: 25px;
-    padding: 0px 0px 0px 10px;
+    padding: 0px 100px 0px 10px;
     color: #f6881a;
   }
 }
