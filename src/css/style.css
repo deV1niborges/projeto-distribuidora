@@ -17,15 +17,11 @@ main {
   height: 100vh;
 }
 
-section {
+section{
   height: 100vh;
   display: flex;
   align-items: center;
-  padding: 100px;
-}
-
-figure {
-  padding: 20px 0px 20px 20px;
+  padding: 0px 0px 0px 100px;
 }
 
 figure > img {
@@ -40,4 +36,3 @@ h1 {
   padding: 0px 0px 0px 10px;
   color: #f6881a;
 }
-

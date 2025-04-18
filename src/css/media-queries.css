@@ -28,14 +28,9 @@
 
 @media screen and (min-width: 769px) and (max-width: 992px) {
   section {
-    height: 100vh;
     display: flex;
     align-items: center;
     padding: 100px;
-  }
-
-  figure {
-    padding: 20px 0px 20px 20px;
   }
 
   figure > img {
