@@ -17,10 +17,22 @@ main {
   height: 100vh;
 }
 
-section{
+section {
   height: 100vh;
   display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+  justify-content: center;
+}
+
+.header-content {
+  display: flex;
   align-items: center;
+  padding: 0px 0px 0px 110px;
+}
+
+.title {
+  margin-top: -20px; 
   padding: 0px 0px 0px 100px;
 }
 
@@ -34,5 +46,11 @@ h1 {
   font-style: italic;
   font-size: 32px;
   padding: 0px 0px 0px 10px;
-  color: #f6881a;
+  color: #f68b1a;
+}
+
+h2 {
+  padding: 0px 0px 0px 120px;
+  color: white;
+  font-size: 20px;
 }

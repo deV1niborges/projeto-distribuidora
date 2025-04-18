@@ -3,10 +3,12 @@
 @media screen and (max-width: 768px) {
   section {
     display: flex;
-    height: 100px;
-    padding: 0px;
     justify-content: flex-start;
-    align-items: center;
+  }
+
+  .title {
+    margin-top: -30px;
+    padding: 0px 0px 0px 170px;
   }
 
   figure {
@@ -24,15 +26,14 @@
     color: #f6881a;
     font-size: 16px;
   }
+
+  h2 {
+    padding: 0px 0px 0px 10px;
+    font-size: 11px;
+  }
 }
 
 @media screen and (min-width: 769px) and (max-width: 992px) {
-  section {
-    display: flex;
-    align-items: center;
-    padding: 100px;
-  }
-
   figure > img {
     height: 90px;
   }
@@ -41,5 +42,10 @@
     font-size: 25px;
     padding: 0px 0px 0px 10px;
     color: #f6881a;
+  }
+
+  h2 {
+    padding: 0px 0px 0px 110px;
+    font-size: 16px;
   }
 }
