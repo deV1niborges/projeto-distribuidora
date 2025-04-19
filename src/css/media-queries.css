@@ -28,6 +28,12 @@
 }
 
 @media screen and (min-width: 769px) and (max-width: 992px) {
+  section {
+    display: flex;
+    justify-content: start;
+    padding-left: 0px;
+  }
+
   figure > img {
     height: 90px;
   }
@@ -45,5 +51,12 @@
 
   h2 {
     font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1024px){
+  section {
+    justify-content: start;
+    padding-left: 0px;
   }
 }
