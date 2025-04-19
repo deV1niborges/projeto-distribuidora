@@ -11,6 +11,10 @@
     padding-left: 70px;
   }
 
+  /* .img {
+    display: none;
+  } */
+
   figure > img {
     margin: 10px;
     background-color: white;
@@ -42,6 +46,10 @@
     padding-left: 100px;
   }
 
+  /* .img {
+    display: none;
+  } */
+
   h1 {
     font-size: 25px;
     padding-left: 10px;
@@ -62,6 +70,10 @@
   .slogan {
     padding-left: 100px;
   }
+
+  /* .img {
+    display: none;
+  } */
 
   h1 {
     font-size: 27px;
